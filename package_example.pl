@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 
 use 5.010
-use strict
+use strict;
 
 use File::Find qw(find);
 use File::Find::Closures qw(find_by_regex);
